@@ -1,4 +1,4 @@
-# Python Hava Durumu Web Scraping Projects
+# Python Hava Durumu Web Scraping Project
 
 ![alt text](havadurumu.png)
 
